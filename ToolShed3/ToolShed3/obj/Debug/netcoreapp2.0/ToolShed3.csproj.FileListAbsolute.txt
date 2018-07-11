@@ -1,0 +1,11 @@
+B:\Brian\Documents\GitHub\ToolShed3.0\ToolShed3\ToolShed3\bin\Debug\netcoreapp2.0\ToolShed3.deps.json
+B:\Brian\Documents\GitHub\ToolShed3.0\ToolShed3\ToolShed3\bin\Debug\netcoreapp2.0\ToolShed3.runtimeconfig.json
+B:\Brian\Documents\GitHub\ToolShed3.0\ToolShed3\ToolShed3\bin\Debug\netcoreapp2.0\ToolShed3.runtimeconfig.dev.json
+B:\Brian\Documents\GitHub\ToolShed3.0\ToolShed3\ToolShed3\bin\Debug\netcoreapp2.0\ToolShed3.dll
+B:\Brian\Documents\GitHub\ToolShed3.0\ToolShed3\ToolShed3\bin\Debug\netcoreapp2.0\ToolShed3.pdb
+B:\Brian\Documents\GitHub\ToolShed3.0\ToolShed3\ToolShed3\obj\Debug\netcoreapp2.0\ToolShed3.csprojAssemblyReference.cache
+B:\Brian\Documents\GitHub\ToolShed3.0\ToolShed3\ToolShed3\obj\Debug\netcoreapp2.0\ToolShed3.csproj.CoreCompileInputs.cache
+B:\Brian\Documents\GitHub\ToolShed3.0\ToolShed3\ToolShed3\obj\Debug\netcoreapp2.0\ToolShed3.AssemblyInfoInputs.cache
+B:\Brian\Documents\GitHub\ToolShed3.0\ToolShed3\ToolShed3\obj\Debug\netcoreapp2.0\ToolShed3.AssemblyInfo.cs
+B:\Brian\Documents\GitHub\ToolShed3.0\ToolShed3\ToolShed3\obj\Debug\netcoreapp2.0\ToolShed3.dll
+B:\Brian\Documents\GitHub\ToolShed3.0\ToolShed3\ToolShed3\obj\Debug\netcoreapp2.0\ToolShed3.pdb
